@@ -7,12 +7,22 @@
 
 ***The work is licensed under [PUDDING EATER PREROGATIVE LICENSE (Version 7)](./LICENSE). In order to avoid unexpected risks or disasters, before tasting pudding, be sure to understand the possible effects, confirm that it is suitable for eating, and then taste it.***
 
+一些可能的动作
+------------
+
+  * [取得本仓库的压缩包](https://github.com/sysu/sysuguiding.git)
+  * [前往中山大学官方网址](http://www.sysu.edu.cn)
+  * [前往中华人民共和国教育部政府门户网站](http://www.moe.gov.cn/)
+  * [前往"首页 | 中山大学校长办公室"](http://poffice.sysu.edu.cn/)
+  * [前往中山大学新闻网](http://news2.sysu.edu.cn/index.htm)
+  * [前往中山大学"中山大学-中大图志"](http://www.sysu.edu.cn/2012/cn/zdgk/zdgk08/index.htm)
+
 让生活更美好！
 -----------
 
 本仓库是为了提高科学技术治理，普及和发扬中山大学已经取得的精神文明建设成果。
 
-请所有文件以原件为准，这里只是做一个汇总，解释按规定为限，注意合理。
+请所有文件以原件为准，这里只是做一个非正式汇总，解释按规定为限，注意合理。
 
 ```
 甲 - 校级的相关文件。
