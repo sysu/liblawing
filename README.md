@@ -32,6 +32,7 @@
 SONG - jpg文件格式的校歌歌谱图片。
 MOTTO - jpg文件格式的校训。
 BADGE - jpg文件格式的校徽。
+LICENSE - 许可证。
 README - 本文件。
 ```
 
