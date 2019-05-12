@@ -49,7 +49,7 @@ README - 本文件。
 不适宜公开联系
 ------------
 
-对确认不适宜公开的内容，请[告知我们消灭删除](https://github.com/sysu/sysuguiding/issues/new)。
+对确认不适宜公开的内容，请[告知我们消灭删除作出对付](https://github.com/sysu/sysuguiding/issues/new)。
 
 校训
 ----
