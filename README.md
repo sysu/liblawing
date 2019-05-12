@@ -11,11 +11,11 @@
 ------------
 
   * [取得本仓库的压缩包](https://github.com/sysu/sysuguiding.git)
-  * [前往中山大学官方网址](http://www.sysu.edu.cn)
-  * [前往中华人民共和国教育部政府门户网站](http://www.moe.gov.cn/)
-  * [前往"首页 | 中山大学校长办公室"](http://poffice.sysu.edu.cn/)
-  * [前往中山大学新闻网](http://news2.sysu.edu.cn/index.htm)
-  * [前往中山大学"中山大学-中大图志"](http://www.sysu.edu.cn/2012/cn/zdgk/zdgk08/index.htm)
+  * [本窗口前往中山大学官方网址](http://www.sysu.edu.cn)
+  * [本窗口前往中华人民共和国教育部政府门户网站](http://www.moe.gov.cn/)
+  * [本窗口前往"首页 | 中山大学校长办公室"](http://poffice.sysu.edu.cn/)
+  * [本窗口前往中山大学新闻网](http://news2.sysu.edu.cn/index.htm)
+  * [本窗口前往中山大学"中山大学-中大图志"](http://www.sysu.edu.cn/2012/cn/zdgk/zdgk08/index.htm)
 
 让生活更美好！
 -----------
@@ -49,7 +49,7 @@ README - 本文件。
 不适宜公开联系
 ------------
 
-对确认不适宜公开的内容，请告知我们消灭删除。
+对确认不适宜公开的内容，请[告知我们消灭删除](https://github.com/sysu/sysuguiding/issues/new)。
 
 校训
 ----
