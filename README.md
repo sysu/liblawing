@@ -10,6 +10,7 @@
 一些可能的动作
 ------------
 
+  * 学习如何添增到本仓库(未编造)
   * [保存本仓库的压缩包](https://github.com/sysu/sysuguiding/archive/master.zip)
   * [本窗口前往中山大学官方网址](http://www.sysu.edu.cn)
   * [本窗口前往中华人民共和国教育部政府门户网站](http://www.moe.gov.cn/)
