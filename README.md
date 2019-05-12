@@ -50,8 +50,8 @@ README - 本文件。
 
 ![](BADGE)
 
-提议
-----
+问题与反馈
+--------
 
-可以使用 issues 功能发出。
+可以使用 [issues](https://github.com/sysu/sysuguiding/issues) 控制。
 
