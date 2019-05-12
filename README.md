@@ -3,7 +3,9 @@
 中山大学做人大全
 =============
 
-***这个工作使用[布丁食客特权许可(第七版)](./LICENSE)发布。为免造成未预期的风险或灾害，在品尝布丁之前，请务必先了解可能造成的后果，确认适合食用，再进行品尝。***
+***这个工作以[布丁食客特权许可(第七版)](./LICENSE)许可。为免造成未预期的风险或灾害，在品尝布丁之前，请务必先了解可能造成的后果，确认适合食用，再进行品尝。***
+
+***The work is licensed under [PUDDING EATER PREROGATIVE LICENSE (Version 7)](./LICENSE). In order to avoid unexpected risks or disasters, before tasting pudding, be sure to understand the possible consequences, confirm that it is suitable for eating, and then taste it.***
 
 让生活更美好！
 -----------
