@@ -18,6 +18,11 @@
   * [本窗口前往中山大学新闻网](http://news2.sysu.edu.cn/index.htm)
   * [本窗口前往中山大学"中山大学-中大图志"](http://www.sysu.edu.cn/2012/cn/zdgk/zdgk08/index.htm)
 
+### 下载
+
+ * 正式发布版（尚无）
+ * [最新zip](https://github.com/sysu/sysuguiding/archive/master.zip)
+
 ### 最新编入（20条）
 
   * [《二十篇中山大学管理学院教授观点摘抄》，***20 Excerpts of Opinions From The Professors SUN YAT-SEN BUSINESS SCHOOL***](丁/二十篇中山大学管理学院教授观点摘抄.pdf)
