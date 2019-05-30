@@ -20,7 +20,7 @@
 
 ### 最新编入（20条）
 
-  * [《二十篇中山大学管理学院教授观点摘抄》，20 Excerpts of Opinions From The Professors SUN YAT-SEN BUSINESS SCHOOL](丁/二十篇中山大学管理学院教授观点摘抄)
+  * [《二十篇中山大学管理学院教授观点摘抄》，***20 Excerpts of Opinions From The Professors SUN YAT-SEN BUSINESS SCHOOL***](丁/二十篇中山大学管理学院教授观点摘抄.pdf)
   * [《中山大学章程》](甲/中山大学章程)
   * [《中山大学学生守则》](甲/中山大学学生守则)
   * [《中山大学学生准则》](甲/中山大学学生准则)
