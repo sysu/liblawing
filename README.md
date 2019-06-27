@@ -23,7 +23,7 @@
  * 正式发布版（尚无）
  * [最新zip](https://github.com/sysu/sysuguiding/archive/master.zip)
 
-### 最新编入（20条）
+### 最新收录（20条）
 
   * [《二十篇中山大学管理学院教授观点摘抄》，***20 Excerpts of Opinions From The Professors SUN YAT-SEN BUSINESS SCHOOL***](丁/二十篇中山大学管理学院教授观点摘抄.pdf)
   * [《中山大学章程》](甲/中山大学章程)
