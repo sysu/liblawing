@@ -5,6 +5,8 @@
 
 中山大学由孙中山先生创办，有着一百多年办学传统。作为中国教育部直属高校，通过部省共建，中山大学已经成为一所国内一流、国际知名的现代综合性大学。现由广州校区、珠海校区、深圳校区三个校区、五个校园及十家附属医院组成。中山大学正在向世界一流大学迈进，努力成为全球学术重镇。
 
+Sun Yat-sen University, founded by Dr. Sun Yat-sen and with an educational tradition spanning over 100 years, is a preeminent research, academic and cultural center and the premier location for talent development in South China. Under the direct supervision of the Ministry of Education of the People’s Republic of China, and strongly supported by both the Ministry and Guangdong Province, Sun Yat-sen University has developed into a modern comprehensive university that enjoys a reputation as a top-tier university nationally and a renowned university internationally. With five campuses in the three cities of Guangzhou, Zhuhai and Shenzhen, and ten affiliated hospitals, the University is striving to become a world-class university and global center of learning. 
+
 学校官网：
 
 <http://www.sysu.edu.cn/>
