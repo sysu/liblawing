@@ -7,6 +7,14 @@
 
 Sun Yat-sen University, founded by Dr. Sun Yat-sen and with an educational tradition spanning over 100 years, is a preeminent research, academic and cultural center and the premier location for talent development in South China. Under the direct supervision of the Ministry of Education of the People’s Republic of China, and strongly supported by both the Ministry and Guangdong Province, Sun Yat-sen University has developed into a modern comprehensive university that enjoys a reputation as a top-tier university nationally and a renowned university internationally. With five campuses in the three cities of Guangzhou, Zhuhai and Shenzhen, and ten affiliated hospitals, the University is striving to become a world-class university and global center of learning. 
 
+中山大学本科招生网 ：
+
+http://admission.sysu.edu.cn/
+
+首页 | 中山大学研究生院 ：
+
+http://graduate.sysu.edu.cn/
+
 学校官网：
 
 <http://www.sysu.edu.cn/>
